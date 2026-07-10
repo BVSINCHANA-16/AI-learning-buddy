@@ -7,11 +7,11 @@ client = genai.Client(
 )
 
 st.set_page_config(
-    page_title="AI Learning Buddy (SINCHANA)",
+    page_title="AI Learning Buddy",
     page_icon="🎓"
 )
 
-st.title("🎓 Sinchana - Binary Search Tutor")
+st.title("🎓 Sinchana - The Binary Tutor")
 
 topic = st.text_input("Enter a Topic")
 
