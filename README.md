@@ -1,1 +1,1 @@
-https://github.com/BVSINCHANA-16/AI-learning-buddy.git
+https://sinchana-ai-buddy.streamlit.app/
