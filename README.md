@@ -71,7 +71,7 @@ git clone https://github.com/BVSINCHANA-16/AI-learning-buddy.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd AI-Learning-Buddy
+cd AI-learning-buddy
 ```
 
 ### 3. Install the required dependencies
@@ -90,13 +90,13 @@ The application will then open in your browser.
 
 ## 🔐 API Key / Secrets
 
-If the project uses an AI API, the API key should **not** be directly written in the source code.
+The AI API key is stored securely using Streamlit Secrets and is not exposed in the source code.
 
-For deployment, secrets should be configured through Streamlit's secret-management system.
+For local development, configure the required API key in the appropriate secrets configuration before running the application.
 
 ## 👩‍💻 Author
 
-** B V Sinchana**
+**B V Sinchana**
 
 Computer Science & Engineering Student
 
