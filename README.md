@@ -65,7 +65,7 @@ Some features that could be added in the future:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-LINK>
+git clone https://github.com/BVSINCHANA-16/AI-learning-buddy.git
 ```
 
 ### 2. Navigate to the project folder
